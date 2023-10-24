@@ -2,7 +2,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47ylgmtiaxp2lecowwxef0uvwp6eo4v3gocb8bw65y&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-🔭 I’m currently working on using NLP to interpret and generate Texts<br><br>🌱 I’m currently learning NLP<br><br>🤝 I’m looking for help with advancing in GAN<br><br>👨‍💻 All of my projects are available at https://github.com/Gunjit27<br><br>📫 How to reach me gunjit27@gmail.com<br><br>⚡ Fun fact I can write code faster than I can make a decent cup of coffee! ☕💻
+🔭 I’m currently working on using NLP to interpret and generate Texts<br><br>🌱 I’m currently learning NLP<br><br>🤝 I’m looking for help with advancing in GAN<br><br>👨‍💻 All of my projects are available at https://github.com/notakshitgoyal<br><br>📫 How to reach me akshitgoyal92051@gmail.com<br><br>⚡ Fun fact I can write code faster than I can make a decent cup of coffee! ☕💻
 
 
 ## 🌐 Socials:
