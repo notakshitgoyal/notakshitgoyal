@@ -1,6 +1,5 @@
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47ylgmtiaxp2lecowwxef0uvwp6eo4v3gocb8bw65y&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 🔭 I’m currently working on GANs <br><br>🌱 I’m currently learning PyTorch<br><br>🤝 I’m looking for help with advancing in 
     GAN<br><br>👨‍💻 All of my projects are available at https://github.com/notakshitgoyal<br><br>📫 How 
